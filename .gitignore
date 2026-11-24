@@ -1,0 +1,21 @@
+# Dependências e caches
+node_modules/
+.expo/
+dist/
+web-build/
+.export-check/
+
+# Logs e arquivos temporários
+*.log
+tools.txt
+ip.txt
+git.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variáveis de ambiente
+.env
+.env*.local
